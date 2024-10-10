@@ -1,0 +1,16 @@
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\area of figures.exe
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\area of figures.deps.json
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\area of figures.runtimeconfig.json
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\area of figures.runtimeconfig.dev.json
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\area of figures.dll
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\ref\area of figures.dll
+D:\Proekti C#\proverki5\area of figures\bin\Debug\net5.0\area of figures.pdb
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.csproj.AssemblyReference.cache
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.AssemblyInfoInputs.cache
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.AssemblyInfo.cs
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.csproj.CoreCompileInputs.cache
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.dll
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\ref\area of figures.dll
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.pdb
+D:\Proekti C#\proverki5\area of figures\obj\Debug\net5.0\area of figures.genruntimeconfig.cache

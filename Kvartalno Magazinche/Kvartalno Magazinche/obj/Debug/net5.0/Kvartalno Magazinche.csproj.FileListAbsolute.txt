@@ -1,0 +1,16 @@
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\Kvartalno Magazinche.exe
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\Kvartalno Magazinche.deps.json
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\Kvartalno Magazinche.runtimeconfig.json
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\Kvartalno Magazinche.runtimeconfig.dev.json
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\Kvartalno Magazinche.dll
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\ref\Kvartalno Magazinche.dll
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\bin\Debug\net5.0\Kvartalno Magazinche.pdb
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.csproj.AssemblyReference.cache
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.AssemblyInfoInputs.cache
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.AssemblyInfo.cs
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.csproj.CoreCompileInputs.cache
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.dll
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\ref\Kvartalno Magazinche.dll
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.pdb
+D:\Proekti C#\Kvartalno Magazinche\Kvartalno Magazinche\obj\Debug\net5.0\Kvartalno Magazinche.genruntimeconfig.cache

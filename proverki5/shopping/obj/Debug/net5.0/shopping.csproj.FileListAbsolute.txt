@@ -1,0 +1,16 @@
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.AssemblyInfoInputs.cache
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.AssemblyInfo.cs
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.csproj.CoreCompileInputs.cache
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\shopping.exe
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\shopping.deps.json
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\shopping.runtimeconfig.json
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\shopping.runtimeconfig.dev.json
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\shopping.dll
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\ref\shopping.dll
+D:\Proekti C#\proverki5\shopping\bin\Debug\net5.0\shopping.pdb
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.csproj.AssemblyReference.cache
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.dll
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\ref\shopping.dll
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.pdb
+D:\Proekti C#\proverki5\shopping\obj\Debug\net5.0\shopping.genruntimeconfig.cache

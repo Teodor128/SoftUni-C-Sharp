@@ -1,0 +1,15 @@
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\time+15min.exe
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\time+15min.deps.json
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\time+15min.runtimeconfig.json
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\time+15min.runtimeconfig.dev.json
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\time+15min.dll
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\ref\time+15min.dll
+D:\Proekti C#\proverki5\time+15min\bin\Debug\net5.0\time+15min.pdb
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.AssemblyInfoInputs.cache
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.AssemblyInfo.cs
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.csproj.CoreCompileInputs.cache
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.dll
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\ref\time+15min.dll
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.pdb
+D:\Proekti C#\proverki5\time+15min\obj\Debug\net5.0\time+15min.genruntimeconfig.cache

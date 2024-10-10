@@ -1,0 +1,16 @@
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\Deposite.exe
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\Deposite.deps.json
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\Deposite.runtimeconfig.json
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\Deposite.runtimeconfig.dev.json
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\Deposite.dll
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\ref\Deposite.dll
+D:\Proekti C#\Deposite\Deposite\bin\Debug\net5.0\Deposite.pdb
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.csproj.AssemblyReference.cache
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.AssemblyInfoInputs.cache
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.AssemblyInfo.cs
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.csproj.CoreCompileInputs.cache
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.dll
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\ref\Deposite.dll
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.pdb
+D:\Proekti C#\Deposite\Deposite\obj\Debug\net5.0\Deposite.genruntimeconfig.cache

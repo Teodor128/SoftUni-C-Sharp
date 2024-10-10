@@ -1,0 +1,16 @@
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.AssemblyInfoInputs.cache
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.AssemblyInfo.cs
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.csproj.CoreCompileInputs.cache
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.exe
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.deps.json
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.runtimeconfig.json
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.runtimeconfig.dev.json
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.dll
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\ref\Basketball Equipment.dll
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.pdb
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.dll
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\ref\Basketball Equipment.dll
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.pdb
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.genruntimeconfig.cache
+D:\Proekti C#\Basketball Equipment\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.csproj.AssemblyReference.cache

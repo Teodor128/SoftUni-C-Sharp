@@ -1,0 +1,16 @@
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\Godzila vs Kong.exe
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\Godzila vs Kong.deps.json
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\Godzila vs Kong.runtimeconfig.json
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\Godzila vs Kong.runtimeconfig.dev.json
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\Godzila vs Kong.dll
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\ref\Godzila vs Kong.dll
+D:\Proekti C#\proverki5\Godzila vs Kong\bin\Debug\net5.0\Godzila vs Kong.pdb
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.csproj.AssemblyReference.cache
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.AssemblyInfoInputs.cache
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.AssemblyInfo.cs
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.csproj.CoreCompileInputs.cache
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.dll
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\ref\Godzila vs Kong.dll
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.pdb
+D:\Proekti C#\proverki5\Godzila vs Kong\obj\Debug\net5.0\Godzila vs Kong.genruntimeconfig.cache
